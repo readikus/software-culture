@@ -25,6 +25,10 @@ One solution to this is to mute particular channels on Slack, but good companies
 
 # Meetings
 
+## Webcam on
+
+Having the camera on allows a much closer connection. Whilst not essential, it generally gives a more "connnected" experience.
+
 ## Give credit and encouragement first
 
 When someone demos work, they have put effort into it and tried to deliver useful work. It creates a context of negativity if the first comments after their demo is to pick a fault.
