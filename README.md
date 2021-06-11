@@ -1,15 +1,8 @@
-
-
-Change to use tools function
-
-
 # Software Team Culture
 
 
 
-
-
-Remote culture
+# Remote culture
 
 
 # Company Comms
@@ -29,9 +22,6 @@ One solution to this is to mute particular channels on Slack, but good companies
 ## In person meet ups
 
 
-## Home office budget
-
-
 
 # Package
 
@@ -42,11 +32,17 @@ The pandemic has given us all a sense of unease over the last year and a half, a
 
 # Remote Workspace
 
+## Quietest place in the house
+
+## Desks/chairs
+
+## Lighting/webcam
+
+## Home office budget
+
 ## Understanding Family
 
-
 It took me a long time to persuade my wife to leave me alone when working from home. She works Tuesday - Saturday, so on MOnday's she would typically lay in until 10 seconds before my turn at the morning stand up and then disrupt me. Every. Single. Week. I would say to her "I'm about to start my morning call!", and get "OK!" back. What I really meant was "DON'T YOU DARE DISRUPT ME AGAIN!". Then one day, her parents stayed over and guess what time they all descending on the room I was working from?! It took her dad to tell her that work like this requirements
-
 
 ## Lunch and Lunch
 
