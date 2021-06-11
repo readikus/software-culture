@@ -2,6 +2,7 @@
 
 
 
+
 # Remote culture
 
 
@@ -21,6 +22,26 @@ One solution to this is to mute particular channels on Slack, but good companies
 
 ## In person meet ups
 
+
+# Meetings
+
+## Give credit and encouragement first
+
+When someone demos work, they have put effort into it and tried to deliver useful work. It creates a context of negativity if the first comments after their demo is to pick a fault.
+
+## Don't just pick holes
+
+Deliver criticial feedback in a way that you would like to receive it. 
+
+## Don't interupt
+
+## "At my last place..."
+
+
+
+## Be mindful of location
+
+Less of a problem now more people are remote, but having a remote meeting where there are some people together in a room discussing stuff "off mic" is unhelpful/rude.
 
 
 # Package
