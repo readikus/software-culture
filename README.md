@@ -41,7 +41,11 @@ Deliver criticial feedback in a way that you would like to receive it.
 
 ## "At my last place..."
 
+If you have a suggestion that you have seen used successfully before, by all means share it. However if you are just keen to remind people where you have come from, it becomes tiresome very quickly. 
 
+## Always finish on time
+
+Overrunning meetings are a symptom of poor planning and inconsiderate to the other time committments of those attending the meeting.
 
 ## Be mindful of location
 
