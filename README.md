@@ -12,11 +12,11 @@ Email is dead - just get over it.
 
 ## Quiet times
 
-Software development is all about having the functionality running in your headspace. This takes a lot of time and concentration to read the code and think about how data flows around. If you've got that all up and running, and then you get a "PING!" as someone posts an `@here` on Slack to announce the company is going to have a social in a few weeks time, it's hard to maintain that concentration, and you'll likely lose your train of thought. As a developer, you deliver value when you are concentrating on code and adding to it - not reading slack messages! Companies that appreciate this and want to maximise effectivceness will designate times when people don't bombard you with pointless stuff, @here/@channels to tell you stuff that can wait, ask about updating your timesheet, HR records etc. You're paid to produce work - without these agreements in place, AT A COMPANY LEVEL, your concentration is always going to be vulernale to attacks. It's like sitting in an office, and Derek in accounts is always chirping on about his racing pigeons.
+Software development is all about having the functionality running in your headspace. This takes a lot of time and concentration to read the code and think about how data flows around. If you've got that all up and running, and then you get a "PING!" every hour or so from an `@here` on Slack to announce company news, it's hard to maintain that concentration, and you'll likely lose your train of thought. As a developer, you deliver value when you are concentrating on code and adding to it. Companies that appreciate this and want to maximise effectivceness will designate times when people don't bombard you with information that is not time-sensitive that can wait until the end of the day. You're paid to produce work - without this understanding, _AT A COMPANY LEVEL_, your concentration is always going to be vulernale.
 
 I find I hit a great work cadence at 2:45 - 4:45, if you ping an @here during that time, it destorys that.
 
-One solution to this is to mute particular channels on Slack, but good companies will have that under control. 
+One solution to this is to mute particular channels on Slack, but understanding companies should not need this. 
 
 ## Social channels
 
